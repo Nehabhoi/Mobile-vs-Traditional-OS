@@ -2,7 +2,7 @@
 
 <br />
 <p align="center">
-  <h3 align="center">Mobile-vs-Traditional-OS-Case-study-Linux-vs-Android</h3>
+  <h3 align="center">Mobile vs Traditional OS (Case study: Linux vs Android)</h3>
 </p>
 
 
